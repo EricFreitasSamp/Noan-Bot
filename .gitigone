@@ -1,0 +1,6 @@
+# Ignorar pastas do node
+node_modules
+# Ignorar database do aoi.js
+database
+# Ignorar config.json
+config.json
